@@ -1,27 +1,7 @@
 # LearnLynk 
 
-This repository contains the complete implementation for the LearnLynk technical test.
+This repository contains the complete implementation for the LearnLynk.
 
-## Project Structure
-
-.
-├── backend/
-│ ├── schema.sql # Database schema (Task 1)
-│ ├── rls_policies.sql # Row-Level Security policies (Task 2)
-│ └── edge-functions/
-│ └── create-task/
-│ └── index.ts # Edge Function API (Task 3)
-└── frontend/
-└── src/
-├── pages/
-│ └── dashboard/
-│ └── today.tsx # Today's Tasks Dashboard (Task 4)
-├── components/
-│ └── TaskTable.tsx
-├── hooks/
-│ └── useTodayTasks.ts
-└── lib/
-└── supabase.ts
 
 
 ## Setup Instructions
